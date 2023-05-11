@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://shuqinng08-portfolio.web.app/" target="_blank">soumyajit.tech</a>
+  <a href="https://shuqinng08-portfolio.web.app/" target="_blank">shuqinng.tech</a>
 </h2>
 
 ## Built With
